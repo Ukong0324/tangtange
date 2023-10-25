@@ -14,3 +14,6 @@
 - Unity: 2022.3.10f1
 - Code Editor: Visual Studio 2022
 - Build: Windows
+
+## Preview
+![img](/image/preview.png)
