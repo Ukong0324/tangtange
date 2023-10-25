@@ -16,4 +16,4 @@
 - Build: Windows
 
 ## Preview
-![img](/image/preview.png)
+![img](/Image/preview.png)
