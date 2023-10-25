@@ -7,7 +7,7 @@
 - Weapon (Controller, Generator)
 - Enemy (Controller, Generator)
 - UI (Timer, Level, Kills 등)
-- Director (카메라)
+- Director (Main Camera)
 - 자세한 내용은 각 폴더에 있는 README를 잘 확인해주시길 바랍니다.
 
 ## Tools
